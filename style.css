@@ -10,23 +10,23 @@
     width: 70px;
 }
 .feachers{
-    margin-left: 35%;
-   
+    margin-left: 20%;
 }
 
 .butifull-button{
     border: none;
-    background-color: #21B573;
+    background-color: transparent;
     border-radius: 50px;
     padding:0px 20px 0px 20px;
 }
 .butifull-button:hover{
     background-color: goldenrod;
 }
-.feachers2:hover{
-    font-size: 18px;
-    color: goldenrod;
-    background-color: rgb(194, 178, 90);
-    border-radius: 18px;
-   
+#tapButtonToggler{
+    background-color: white;
+    border: none;
+}
+#tapButtonToggler:hover{
+    color: white;
+    background-color: goldenrod;
 }
