@@ -1,14 +1,32 @@
 
 .name-company{
-    color:rgb(190, 3, 190);
+    color: rgb(201, 167, 80);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.logo-image{
-    width: 150px;
+.navbersColor{
+    background-color: rgb(63, 63, 37);
 }
+.logo-image{
+    width: 70px;
+}
+.feachers{
+    margin-left: 35%;
+   
+}
+
 .butifull-button{
     border: none;
     background-color: #21B573;
     border-radius: 50px;
     padding:0px 20px 0px 20px;
+}
+.butifull-button:hover{
+    background-color: goldenrod;
+}
+.feachers2:hover{
+    font-size: 18px;
+    color: goldenrod;
+    background-color: rgb(194, 178, 90);
+    border-radius: 18px;
+   
 }
